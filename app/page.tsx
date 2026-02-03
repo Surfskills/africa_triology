@@ -613,7 +613,7 @@ export default function UrbanDreamerLanding() {
                     </button>
                   </form>
                   {message && <p className={`form-msg ${status === 'success' ? 'success' : 'error'}`}>{message}</p>}
-                  <p className="form-note">No spam. No bullshit. Just the truth.</p>
+                  <p className="form-note">No spam. Just the truth.</p>
                 </div>
               </div>
             </div>

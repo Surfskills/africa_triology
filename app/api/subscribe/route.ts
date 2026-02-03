@@ -123,7 +123,7 @@ export async function POST(req: Request) {
             </p>
 
             <p style="color: #888888; text-align: center; margin-top: 40px;">
-              No spam. No bullshit. Just the truth.
+              No spam. Just the truth.
             </p>
           </div>
         </div>
