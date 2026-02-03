@@ -577,7 +577,7 @@ export default function UrbanDreamerLanding() {
                 <div className="book-cover-frame">
                   <div className="book-glow" />
                   <div className="book-spine" />
-                  <img src="/COVER 1.png" alt="The Urban Dreamer" />
+                  <img src="/COVER 1.webp" alt="The Urban Dreamer" />
                 </div>
               </div>
 
@@ -727,7 +727,7 @@ export default function UrbanDreamerLanding() {
                 <div className="book-cover-frame">
                   <div className="book-glow" />
                   <div className="book-spine" />
-                  <img src="/book-cover.png" alt="The Urban Dreamer" />
+                  <img src="/COVER 1.webp" alt="The Urban Dreamer" />
                 </div>
               </div>
             </div>
